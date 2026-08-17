@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Siddak Singh 👋
 
-<!--
-**SiddakSingh29/SiddakSingh29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 CSE Student | 💻 Aspiring Software Developer
 
-Here are some ideas to get you started:
+I'm a Computer Science student interested in building software,
+learning programming, and exploring different areas of technology.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Interests
+
+- Programming & Software Development
+- Data Structures & Algorithms
+- Web Development
+- Artificial Intelligence & Machine Learning
+- Cybersecurity 🔐
+
+## 🛠️ Skills
+
+- C++
+- Python
+- Git & GitHub
+- HTML & CSS
+- JavaScript
+- Arduino / ESP32
+
+## 📚 Currently Learning
+
+- C++ & Data Structures
+- Problem Solving
+- Web Development
+- Python
+- AI/ML fundamentals
+
+## 🎯 Goals
+
+To build strong programming fundamentals, create real-world
+projects, and grow as a software developer.
+
+## 📌 Projects
+
+More projects coming soon...
